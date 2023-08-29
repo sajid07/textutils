@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/sajid07/textutils.git/static/css/main.685474a7.css",
+    "main.js": "/sajid07/textutils.git/static/js/main.e3bbb99e.js",
+    "static/js/787.719ec76d.chunk.js": "/sajid07/textutils.git/static/js/787.719ec76d.chunk.js",
+    "static/media/logo.svg": "/sajid07/textutils.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/sajid07/textutils.git/index.html",
+    "main.685474a7.css.map": "/sajid07/textutils.git/static/css/main.685474a7.css.map",
+    "main.e3bbb99e.js.map": "/sajid07/textutils.git/static/js/main.e3bbb99e.js.map",
+    "787.719ec76d.chunk.js.map": "/sajid07/textutils.git/static/js/787.719ec76d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.685474a7.css",
+    "static/js/main.e3bbb99e.js"
+  ]
+}
